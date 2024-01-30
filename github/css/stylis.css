@@ -1,0 +1,45 @@
+.body {
+	background-image: radial-gradient(circle, gold, red);
+}
+.header {
+	font-size: 20px;
+	margin: 60px auto;
+}
+.header span {
+	display: block;
+}
+.form {
+	border: 5px solid black;
+	height: 315px;
+	padding: 30px 30px;
+}
+.form-btn {
+	margin-top: 13px;
+}
+.form-heder {
+	font-size: 20px;
+	font-weight: 900;
+}
+.form p {
+	margin-bottom: 20px;
+}
+.form input {
+	margin-bottom: 12px;
+}
+.header-main {
+	margin-top: 30px;
+}
+.image {
+	height: 150px;
+	width: 200px;
+	margin-bottom: 10px;
+}
+.txt {
+	padding: 15px;
+}
+.name {
+	margin-bottom: 10px;
+}
+.feature {
+	margin-top: 20px;
+}
